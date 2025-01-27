@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\dell\\desktop\\\u0111\u1ED3 \u00E1n\\windowsformsapp1\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\thongtindangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\thongtindangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\dao\\billinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dao\\billinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\dao\\fooddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dao\\fooddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\windowsformsapp1\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8249A8CE-C772-4B0A-BCDC-6D2ADAFC2A9F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "thongtindangnhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\thongtindangnhap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\thongtindangnhap.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\thongtindangnhap.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\thongtindangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:49:19.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formadmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\Formadmin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Formadmin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\Formadmin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Formadmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:49:12.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "foodDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\foodDAO.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DAO\\foodDAO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\foodDAO.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DAO\\foodDAO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:29:36.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "food.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DTO\\food.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DTO\\food.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DTO\\food.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DTO\\food.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:37:31.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DAO\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\CategoryDAO.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DAO\\CategoryDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:26:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DTO\\Menu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DTO\\Menu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DTO\\Menu.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DTO\\Menu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:22:01.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tablemanager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\tablemanager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\tablemanager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\tablemanager.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\tablemanager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:53:22.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\BillDAO.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DAO\\BillDAO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\BillDAO.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DAO\\BillDAO.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAD4vzMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:56:43.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tablemanager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\tablemanager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\tablemanager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\tablemanager.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\tablemanager.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAD4v8YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:10:16.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillInfoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\BillInfoDAO.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DAO\\BillInfoDAO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\BillInfoDAO.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DAO\\BillInfoDAO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T09:10:56.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\MenuDAO.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DAO\\MenuDAO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DAO\\MenuDAO.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DAO\\MenuDAO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBYAAADnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:32:03.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DTO\\category.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DTO\\category.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\\u0110\u1ED3 \u00E1n\\WindowsFormsApp1\\DTO\\category.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DTO\\category.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:17:32.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

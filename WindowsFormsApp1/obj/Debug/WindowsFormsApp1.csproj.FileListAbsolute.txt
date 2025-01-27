@@ -1,0 +1,26 @@
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dangnhap.resources
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formtablemanager.resources
+C:\Users\DELL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thongtindangnhap.resources
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dangnhap.resources
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formtablemanager.resources
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thongtindangnhap.resources
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formadmin.resources
+C:\Users\DELL\Desktop\Đồ án\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tablemanager.resources
